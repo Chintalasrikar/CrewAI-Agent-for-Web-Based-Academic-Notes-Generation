@@ -9,7 +9,7 @@ crew = Crew(
     verbose=True
 )
 
-topic = input("Enter the topic to research (e.g., machine learning): ").strip() or "machine learning"
+topic = input("Enter the topic to research: ").strip() or "machine learning"
 print(f"Researching topic: {topic}")
 result = crew.kickoff(inputs={"topic": topic})
 print(result)
