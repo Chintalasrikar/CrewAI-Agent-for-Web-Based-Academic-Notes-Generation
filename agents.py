@@ -15,9 +15,8 @@ researcher = Agent(
     role="Web Researcher",
     goal="Search the web for information on a given topic and generate detailed notes",
     backstory=(
-        "An expert researcher skilled in finding and summarizing web content for academic purposes.",
-        "You are expert in writing detailed notes on various topics."
-    ),
+        """An expert researcher skilled in finding and summarizing web content for academic purposes.
+        You are expert in writing detailed notes on various topics.""",
     tools=[search_tool],
     llm=llm,
     verbose=True
