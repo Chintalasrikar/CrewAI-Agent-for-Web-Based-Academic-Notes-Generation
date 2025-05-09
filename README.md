@@ -45,12 +45,19 @@ This AI-powered system allows researchers, students, and professionals to automa
 ## 📂 Project Structure
 
 ├── agents.py # Defines the Web Researcher agent
+
 ├── crew.py # Manages the CrewAI setup and execution
+
 ├── tasks.py # Defines the research task and output format
+
 ├── tools.py # Integrates Serper search tool
+
 ├── .env # Stores API keys securely
+
 ├── requirements.txt # Project dependencies
+
 ├── README.md # Project documentation
+
 
 ---
 
