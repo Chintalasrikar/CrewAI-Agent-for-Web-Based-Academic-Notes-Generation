@@ -5,3 +5,4 @@ langchain
 langchain-groq
 python-docx
 python-dotenv
+pysqlite3-binary==0.5.3
