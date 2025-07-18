@@ -1,5 +1,7 @@
-langchain_groq
 crewai
 crewai[tools]
-python-dotenv
+streamlit
 langchain
+langchain-groq
+python-docx
+python-dotenv
