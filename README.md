@@ -1,4 +1,4 @@
-# 📘 CrewAI Agent for Web-Based Academic Notes Generation
+# 📘 CrewAI Agent for Web-Based Academic Notes Generation | [Demo](https://crewai-agent-for-web-based-academic-notes-generation-dy3nlilzr.streamlit.app/)
 
 
 An **AI-powered research assistant** that automates the process of gathering and synthesizing information from the web, processing it with state-of-the-art language models, and generating structured academic notes. This tool integrates advanced technologies like **LLaMA 3.3** via **Groq**, **Serper.dev** for web search, and **CrewAI** for task management.
